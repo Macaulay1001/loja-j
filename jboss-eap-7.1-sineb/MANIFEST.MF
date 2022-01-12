@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Implementation-Title: JBoss Modules
+Implementation-Version: 1.6.0.Final-redhat-1
+Java-Version: 1.8.0_141
+Built-By: mockbuild
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/jbos
+ s-modules
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: JBoss Modules
+Implementation-Vendor-Id: org.jboss.modules
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: http://github.com/jboss/jboss-parent-pom/jboss-modules
+Implementation-Vendor: JBoss by Red Hat
+Main-Class: org.jboss.modules.Main
+Jar-Version: 1.6.0.Final-redhat-1
+Os-Version: 2.6.32-696.6.3.el6.x86_64
+Jar-Name: jboss-modules
+Scm-Revision: 68594c39a7f969fa221016696509ef92a7942db0
+Multi-Release: true
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_141
+Specification-Version: 1.6
+Implementation-URL: http://www.jboss.org/jboss-modules
+

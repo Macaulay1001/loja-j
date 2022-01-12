@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Sybase, an SAP Company
+Implementation-Title: com.sybase.jdbc4.utils
+Implementation-Version: JDK 1.6/jdbcmain/Wed Aug 31 03:15:39 PDT 2011
+Specification-Vendor: Sybase, an SAP Company
+Built-By: nnishant
+Created-By: 1.6.0_03 (Sun Microsystems Inc.)
+Specification-Title: jConnect (TM) for JDBC(TM)
+Specification-Version: jConnect (TM) for JDBC(TM)/7.07 GA(Build 26666)
+ /P/EBF19485/JDK 1.6.0/jdbcmain/Wed Aug 31 03:14:04 PDT 2011
+Main-Class: com.sybase.jdbc4.utils.SybVersion
+

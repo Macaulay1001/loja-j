@@ -1,0 +1,16 @@
+
+META-INF
+META-INF/services
+com/sybase/jdbc4
+com/sybase/jdbc4/charset
+com/sybase/jdbc4/jdbc
+com/sybase/jdbc4/jdbc/resource
+com/sybase/jdbc4/utils
+com/sybase/jdbc4/utils/resource
+com/sybase/jdbc4/tds
+com/sybase/jdbc4/timedio
+com/sybase/jdbc4/security
+com/sybase/jdbc4/security/asn1
+com/sybase/jdbc4/security/asn1/x509
+com/sybase/jdbc4/security/util
+com/sybase/jdbcx
